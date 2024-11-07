@@ -1,0 +1,13 @@
+#cim {
+    text-align: center;
+
+}
+ul > li:first-child{
+    font-weight: bold;
+}
+ul > li > ol{
+    font-weight: normal;
+}
+ol > li:first-child{
+    text-decoration: underline;
+}
